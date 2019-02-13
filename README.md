@@ -1,5 +1,9 @@
 # ibm-visual-recognition-explore
 
+# Procedimentos
+* Entrar na página de Serviços do Watson Developer Console
+* Criar conta de serviço para Visual Recognition no IBM Cloud
+
 * Referências
   * [IBM Watson](https://console.bluemix.net/developer/watson/documentation)
   * Visual Recognition
