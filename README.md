@@ -5,3 +5,4 @@
   * Visual Recognition
     * [Documentação](https://console.bluemix.net/docs/services/visual-recognition/getting-started.html#getting-started-tutorial)
     * [API](https://www.ibm.com/watson/developercloud/visual-recognition/api/v3/)
+    * [Documentação Java](https://cloud.ibm.com/apidocs/visual-recognition?code=java)
